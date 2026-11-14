@@ -1,0 +1,47 @@
+# ---- Unity generated ----
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/Assets/Plugins/Editor/JetBrains*
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+ServerData/
+
+# ---- IDE ----
+.vs/
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+.DS_Store
+
+# ---- Project: secrets & raw assets ----
+/Config/Local/
+/Assets/_Project/ScriptableObjects/Config/ClientConfig.asset
+/Assets/_Project/ScriptableObjects/Config/ClientConfig.asset.meta
+/SourceAssets/*
+!/SourceAssets/README.md
+.env
+.env.*
+
+# ---- Unity Version Control (Plastic) — not used, Git is the VCS ----
+.plastic/
+ignore.conf
