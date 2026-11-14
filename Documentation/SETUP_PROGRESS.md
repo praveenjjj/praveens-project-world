@@ -3,7 +3,7 @@
 Project path: `~/PeronalProjects/UnityProject/PraveensProjectWorld`
 Detailed how-to for each step: `Documentation/SETUP_MAC.md`
 
-**Progress: 8 / 16 done**
+**Progress: 9 / 16 done**
 
 | # | Step | Who | Status |
 |---|---|---|---|
@@ -15,7 +15,7 @@ Detailed how-to for each step: `Documentation/SETUP_MAC.md`
 | 6 | GitHub CLI installed + `gh auth login` | You | ✅ Done |
 | 7 | `git init` + first commit + GitHub repo created & pushed | You (commands given) | ✅ Done — https://github.com/praveenjjj/praveens-project-world |
 | 8 | Claude Code CLI installed + signed in | You | ✅ Done — v2.1.308 (Homebrew), signed in (claude.ai) |
-| 9 | Photon Fusion 2 app created, App ID copied | You | ⬜ |
+| 9 | Photon Fusion 2 app created, App ID copied | You | ✅ Done — app `PraveensProjectWorld` (Fusion 2, free tier); App ID in local secrets (GUID format verified) |
 | 10 | Vivox enabled in Unity Cloud project | You | ⬜ |
 | 11 | Supabase project created, URL + anon key copied | You | ⬜ |
 | 12 | `Config/Local/ProjectSecrets.json` filled | You | ⬜ |
